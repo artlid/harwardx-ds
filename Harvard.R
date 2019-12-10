@@ -1,5 +1,10 @@
 #https://rafalab.github.io/dsbook/
 
+#Git
+#https://git-scm.com/docs/gitignore - files that are not being tracked in GitHub repo
+
+
+
 library(ggplot2)
 library(dplyr)
 library(tidyverse)
